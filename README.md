@@ -22,3 +22,16 @@ max_size = 800  # Définissez la taille maximale souhaitée ici
 quality = 80    # Définissez le niveau de qualité (entre 0 et 100, 100 étant la meilleure qualité)
 
 reduire_taille_image(input_path, output_path, max_size, quality)
+
+```
+
+
+## Installation et Exécution
+  - Assurez-vous d'avoir Python installé sur votre système.
+  - Installez la bibliothèque Pillow en utilisant la commande suivante :
+    Copy code
+    ``` pip install Pillow ```
+  - Téléchargez ou clonez ce projet depuis GitHub.
+  - Exécutez le script Python main.py en spécifiant les paramètres appropriés.
+## Contributions
+Les contributions sont les bienvenues ! Si vous souhaitez améliorer le script ou ajouter de nouvelles fonctionnalités, n'hésitez pas à créer une Pull Request.
